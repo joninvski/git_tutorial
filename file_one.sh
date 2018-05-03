@@ -1,1 +1,2 @@
-echo hello second world
+echo hello world
+hello world
